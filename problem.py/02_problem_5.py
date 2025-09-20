@@ -18,7 +18,7 @@
 
 # print(s)
 
-s = set()
-s.add(18)
-s.add('12')
-print(s)
+# s = set()
+# s.add(18)
+# s.add('12')
+# print(s)
